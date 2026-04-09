@@ -1,0 +1,6 @@
+# Runtime-generated files (our "database" and log)
+ledger.json
+transactions.log
+
+# Compiled binary
+fintech-go.exe
